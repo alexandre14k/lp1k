@@ -26,3 +26,10 @@
 <br>
 
 ## hard tests
+
+[lp1k-connect-flash-100ms_led2](https://github.com/alexandre14k/lp1k/blob/main/doc/lp1k-connect-flash-100ms_led2.gif)
+<br>
+[lp1k-connect-flash-500ms_led1](https://github.com/alexandre14k/lp1k/blob/main/doc/lp1k-connect-flash-500ms_led1.gif)
+<br>
+[lp1k-connect-sleep-cycle-evalkit](https://github.com/alexandre14k/lp1k/blob/main/doc/lp1k-connect-sleep-cycle-evalkit.gif)
+<br>
