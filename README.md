@@ -4,8 +4,8 @@ Python script in, bitstream out, flashed over Digilent Adept USB.
 
 ## Status
 
-The iCEblink40-LP1K is an obsolete board. This project is an attempt
-to revive it: open toolchain, no vendor software, Linux only.
+The [iCEblink40-LP1K](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCEblink40LP1KEvaluationKit) is an obsolete board.<br>
+This project is an attempt to revive it: open toolchain, no vendor software, Linux only.
 
 - Synth -- yosys and nextpnr replace iCEcube2
 - Pack -- built-in packer replaces the vendor bitstream tool
@@ -55,6 +55,9 @@ Prompts:
 - `choice>` -- enter an index, empty input skips
 - `[y/N]>` -- `y` or `yes` confirms, anything else aborts
 - Up/down -- recall previous input
+
+## Tests
+Check this page [TESTS](TESTS)
 
 ## Hardware
 
