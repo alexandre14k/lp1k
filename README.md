@@ -57,7 +57,7 @@ Prompts:
 - Up/down -- recall previous input
 
 ## Tests
-Check this page [TESTS](TESTS)
+Check this page [TESTS](TESTS.md)
 
 ## Hardware
 
