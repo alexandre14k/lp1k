@@ -1,7 +1,7 @@
 # host PC Linux Mint 22.2
 
 ## soft tests
-**play.sh ** provides interactive menu to board control <br>
+**play.sh** provides interactive menu to board control <br>
 
 ### synthesize a scenario
 
@@ -27,7 +27,7 @@
 
 ## hard tests
 
- <video width="400" controls>
-  <source src="blob/main/doc/lp1k-connect-flash-500ms_led1.mp4" type="video/mp4">
-  Your browser does not support HTML video.
+<video width="400" controls>
+ <source src="https://github.com/alexandre14k/lp1k/blob/main/doc/lp1k-connect-flash-500ms_led1.mp4" type="video/mp4">
+ Your browser does not support HTML video.
 </video> 
