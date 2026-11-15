@@ -26,8 +26,3 @@
 <br>
 
 ## hard tests
-
-<video width="400" controls>
- <source src="https://github.com/alexandre14k/lp1k/blob/main/doc/lp1k-connect-flash-500ms_led1.mp4" type="video/mp4">
- Your browser does not support HTML video.
-</video> 
