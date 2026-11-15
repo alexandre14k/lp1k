@@ -2,6 +2,8 @@
 Synth, pack and flash tool for the iCEblink40-LP1K (iCE40-LP1K-QN84). <br>
 Python script in, bitstream out, flashed over Digilent Adept USB.
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/lp1k&label=Views&labelColor=%23555555&countColor=%23007EC6)
+
 ## Status
 
 The [iCEblink40-LP1K](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCEblink40LP1KEvaluationKit) is an obsolete board.<br>
